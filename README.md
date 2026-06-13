@@ -9,16 +9,15 @@ This repository serves as a central hub to showcase my projects, blog posts, and
 ## 👨‍💻 About Me
 - **Current Role**: AVP – Software Engineer, Bank of America (New Delhi, India)
 - **Past Roles**: Lead Analyst (Bank of America), Senior Developer (Bravura Solutions, ValueLabs, Amdocs, CSC)
-- **Education**: M.Tech in Software Systems (BITS Pilani), B.Tech (DIT Uttarakhand)
+- **Education**: M.Tech in Software Systems (BITS Pilani), B.Tech in Electronics and Communication (DIT Uttarakhand)
 - **Certifications**: Oracle Certified Java Programmer, CompTIA Security+, INS‑21 Insurance
 
 ---
 
 ## 🛠️ Skills
-- **Languages**: Java (Advanced), SQL
-- **Frameworks**: Spring Boot, Spring Security, MyBatis, Hibernate
-- **APIs**: REST, SOAP
-- **Tools**: Jenkins, Git, Agile/Scrum
+- **Languages**: Java, SQL (Oracle DB)
+- **Frameworks**: Spring Boot, Spring Security, MyBatis, Hibernate, Microservices, REST APIs, Kafka, Infinispan Cache Management, Redis 
+- **Tools**: IntelliJ IDE, Git, Bitbucket, Toad, Jenkins, Ansible, puTTy, jConsole, Splunk
 - **Domain Expertise**: Cybersecurity – Authorization Services, Financial Systems
 
 ---
