@@ -45,8 +45,9 @@ I share insights on Java, cybersecurity, and AI tools in software engineering:
 - **Email**: abhinav.it.engineer@gmail.com  
 - **LinkedIn**: [linkedin.com/in/abhinav-it-engineer](https://www.linkedin.com/in/abhinav-it-engineer)  
 - **Portfolio Website**: [www.abhinavdev.co.in](https://www.abhinavdev.co.in)  
-- **YouTube**: [Tech Bytes Channel](#)  
-- **Spotify**: [Cybersecurity Nuggets](#)
+- **YouTube**: [Tech Bytes Channel](https://www.youtube.com/@abhinavitengineer)  
+- **Blogger**: [Developer Nuggets](https://abhinavitengineer.blogspot.com/)
+- **GitHub**: [My Work](https://github.com/abhinavitengineer)
 
 ---
 
